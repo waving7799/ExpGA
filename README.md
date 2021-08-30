@@ -1,2 +1,2 @@
 # ExpGA
-some support materials of ExpGA
+Some support materials of ExpGA
