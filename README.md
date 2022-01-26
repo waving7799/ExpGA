@@ -18,4 +18,4 @@ After the model retraining, both sentences are predicted as positive on the new 
 
 1.Environmental Setup:
 
-'pip install -r requirement.txt'
+`pip install -r requirement.txt`
