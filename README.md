@@ -16,5 +16,6 @@ After the model retraining, both sentences are predicted as positive on the new 
 
 # Implementation Notes
 
-- 1.Environmental Setup:
+1.Environmental Setup:
+
 'pip install -r requirement.txt'
