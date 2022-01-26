@@ -6,6 +6,7 @@ ExpGA is an explanation-guided fairness testing approach through a genetic algor
 # Examples
 
 - **Tabular Data**
+-
 Here we present a discriminatory sample on the Census dataset. The only difference between the two samples is their values of sex feature, which is related to the protected attribute gender, indicating the unfairness of the classifier with regard to gender.
 
 ![An example pair of discriminatory sample](./figures/Definition.png)
